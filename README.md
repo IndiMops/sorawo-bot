@@ -1,2 +1,1 @@
-# sorao-bot
-#O hello
+# sorawo-bot
